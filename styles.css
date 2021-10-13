@@ -1,0 +1,44 @@
+.games {height: 350px;
+width: 350px;
+position: absolute; left: 5px;
+top: 75px;
+background-color: cyan;
+}
+.mods {height: 350px;
+width: 350px;
+position: absolute; left: 350px;
+top: 75px;
+background-color: lime;
+}
+.payday {
+  height: 350px;
+  width: 350px;
+  position: absolute; left: 700px;
+  top: 75px;
+  background-color: green;
+}
+.clam {
+  height: 350px;
+  width: 350px;
+  position: absolute; left: 5px;
+  top: 425px;
+  background-color: #caf2f1;
+}
+.ghost {
+  height: 350px;
+  width: 350px;
+  position: absolute; left: 350px;
+  top: 425px;
+  background-color: yellow;
+}
+.maps {
+  height: 350px;
+  width: 350px;
+  position: absolute; left: 700px;
+  top: 425px;
+  background-color: gray;
+}
+.thumbnail {
+  height: 32px;
+  width: 32px;
+}
